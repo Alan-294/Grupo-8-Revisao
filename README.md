@@ -1,4 +1,6 @@
-# Grupo-8-Revisao
+# Grupo 8 Revisao
+
+Projeto para a atividade de revisão
 
 # Atividade 1
 Em python, desenvolva uma função chamada contator que recebe uma string e retorna
